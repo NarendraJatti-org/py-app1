@@ -3,6 +3,7 @@ site_description: 'Main documentation for the py-app1'
 repo_url: https://github.com/ricardoandre97/py-app1
 edit_uri: edit/main/docs
 
+#plugins
 plugins:
   - techdocs-core
 
